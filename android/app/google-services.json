@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922841823276",
+    "project_id": "app-flavors-73f16",
+    "storage_bucket": "app-flavors-73f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922841823276:android:90855c57a6629babe37989",
+        "android_client_info": {
+          "package_name": "com.badiniibrahim.app_flavors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnIoqwRDvDc82qDiTyRxmnxZJKVk4zgMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
